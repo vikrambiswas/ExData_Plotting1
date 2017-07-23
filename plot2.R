@@ -8,4 +8,3 @@ png("plot2.png", width=480, height=480)
 plot(x = powerDT[, dateTime], y = powerDT[, Global_active_power], type="l", xlab="", ylab="Global Active Power (kilowatts)")
 dev.off()
 
-# plot2.png is in folder "figure" as file "unnamed-chunk-3.png"
