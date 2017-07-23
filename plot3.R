@@ -14,4 +14,3 @@ legend("topright"
        ,lty=c(1,1), lwd=c(1,1))
 dev.off()
 
-# plot3.png is in folder "figure" as file "unnamed-chunk-4.png"
