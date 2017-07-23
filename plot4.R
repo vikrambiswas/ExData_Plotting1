@@ -18,3 +18,5 @@ legend("topright", col=c("black","red","blue")
        , cex=.5) 
 plot(powerDT[, dateTime], powerDT[,Global_reactive_power], type="l", xlab="datetime", ylab="Global_reactive_power")
 dev.off()
+
+# plot4.png is in folder "figure" as file "unnamed-chunk-5.png"
